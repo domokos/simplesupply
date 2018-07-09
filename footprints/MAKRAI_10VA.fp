@@ -1,0 +1,27 @@
+
+Element["" "" "" "" 52.5000mm 40.5000mm 0.0000 0.0000 0 100 ""]
+(
+	Pin[7.5000mm 14.0000mm 85.11mil 20.00mil 90.11mil 37.55mil "" "3" "edge2"]
+	Pin[-7.5000mm 14.0000mm 85.11mil 20.00mil 90.11mil 37.55mil "" "4" "edge2"]
+	Pin[-12.5000mm -13.5000mm 85.11mil 20.00mil 90.11mil 37.55mil "" "1" "edge2"]
+	Pin[12.5000mm -13.5000mm 85.11mil 20.00mil 90.11mil 37.55mil "" "2" "edge2"]
+	ElementLine [-25.5000mm -21.5000mm 25.5000mm -21.5000mm 10.00mil]
+	ElementLine [-25.5000mm 22.0000mm 25.5000mm 22.0000mm 10.00mil]
+	ElementLine [25.5000mm -21.5000mm 25.5000mm 22.0000mm 10.00mil]
+	ElementLine [-25.5000mm -21.5000mm -25.5000mm 22.0000mm 10.00mil]
+	ElementLine [25.5000mm -5.0000mm 34.5000mm -5.0000mm 10.00mil]
+	ElementLine [34.5000mm -5.0000mm 34.5000mm 5.0000mm 10.00mil]
+	ElementLine [34.5000mm 5.0000mm 25.5000mm 5.0000mm 10.00mil]
+	ElementLine [-34.5000mm -5.0000mm -25.5000mm -5.0000mm 10.00mil]
+	ElementLine [-34.5000mm 5.0000mm -34.5000mm -5.0000mm 10.00mil]
+	ElementLine [-34.5000mm 5.0000mm -25.5000mm 5.0000mm 10.00mil]
+	ElementArc [30.0000mm 0.0000 2.0000mm 2.0000mm -180.000000 -90.000000 10.00mil]
+	ElementArc [30.0000mm 0.0000 2.0000mm 2.0000mm -90.000000 -90.000000 10.00mil]
+	ElementArc [30.0000mm 0.0000 2.0000mm 2.0000mm -0.000000 -90.000000 10.00mil]
+	ElementArc [30.0000mm 0.0000 2.0000mm 2.0000mm -270.000000 -90.000000 10.00mil]
+	ElementArc [-30.0000mm 0.0000 2.0000mm 2.0000mm -270.000000 -90.000000 10.00mil]
+	ElementArc [-30.0000mm 0.0000 2.0000mm 2.0000mm -0.000000 -90.000000 10.00mil]
+	ElementArc [-30.0000mm 0.0000 2.0000mm 2.0000mm -90.000000 -90.000000 10.00mil]
+	ElementArc [-30.0000mm 0.0000 2.0000mm 2.0000mm -180.000000 -90.000000 10.00mil]
+
+	)
